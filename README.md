@@ -1,2 +1,2 @@
 # cv
-Curriculum vitae
+Curriculum vitae - In HTML / CSS / Vanilla JS.
